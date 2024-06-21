@@ -33,14 +33,14 @@ models:
                 staging:
                         materialized: ephemeral
         vars: 
-                t_campaignStats: 'name of campaignStats table'
-                t_campaign: 'name of campaign table'
-                t_ads: 'name of ads table'
-                t_adStats: 'name of adStats table`'
-                t_campaignConv: 'name of campaignConversionStats table'
-                t_adGroupStats: 'name of adGroupStats table'
-                t_adGroup: 'name of adGroup table'
-                t_adGroupConv: 'name of adGroupConversions table'
+                t_campaignStats: 'dashboard-419810.google_ads.p_ads_CampaignStats_1369664160'
+                t_campaign: 'dashboard-419810.google_ads.p_ads_Campaign_1369664160
+                t_ads: 'dashboard-419810.google_ads.p_ads_Ad_1369664160'
+                t_adStats: 'dashboard-419810.google_ads.p_ads_AdStats_1369664160`'
+                t_campaignConv: 'dashboard-419810.google_ads.p_ads_CampaignConversionStats_1369664160'
+                t_adGroupStats: 'dashboard-419810.google_ads.p_ads_AdGroupStats_1369664160'
+                t_adGroup: 'dashboard-419810.google_ads.p_ads_AdGroup_1369664160'
+                t_adGroupConv: 'dashboard-419810.google_ads.p_ads_AdGroupConversionStats_1369664160'
                 convName1: 'name of first conversion'
                 convName2: 'name of second conversion'
                 convName3: 'name of third conversion'
