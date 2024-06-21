@@ -41,8 +41,8 @@ models:
                 t_adGroupStats: 'dashboard-419810.google_ads.p_ads_AdGroupStats_1369664160'
                 t_adGroup: 'dashboard-419810.google_ads.p_ads_AdGroup_1369664160'
                 t_adGroupConv: 'dashboard-419810.google_ads.p_ads_AdGroupConversionStats_1369664160'
-                convName1: 'name of first conversion'
-                convName2: 'name of second conversion'
+                convName1: 'ENGAGEMENT'
+                convName2: 'PURCHASE'
                 convName3: 'name of third conversion'
                 
   
