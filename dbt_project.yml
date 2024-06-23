@@ -1,4 +1,3 @@
-
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
@@ -34,7 +33,7 @@ models:
                         materialized: ephemeral
         vars: 
                 t_campaignStats: 'dashboard-419810.google_ads.p_ads_CampaignStats_1369664160'
-                t_campaign: 'dashboard-419810.google_ads.p_ads_Campaign_1369664160
+                t_campaign: 'dashboard-419810.google_ads.p_ads_Campaign_1369664160'
                 t_ads: 'dashboard-419810.google_ads.p_ads_Ad_1369664160'
                 t_adStats: 'dashboard-419810.google_ads.p_ads_AdStats_1369664160`'
                 t_campaignConv: 'dashboard-419810.google_ads.p_ads_CampaignConversionStats_1369664160'
@@ -44,5 +43,3 @@ models:
                 convName1: 'ENGAGEMENT'
                 convName2: 'PURCHASE'
                 convName3: 'name of third conversion'
-                
-  
